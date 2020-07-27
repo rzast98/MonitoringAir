@@ -1,0 +1,17 @@
+body {
+    color: #222;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  
+  .text {
+      font-size: 30px;
+      height: 50px;
+      vertical-align: middle;
+      overflow: hidden;
+  }
+  
+  .text div {
+      height: 50px;
+      transition: 1s ease-in-out;
+  }
